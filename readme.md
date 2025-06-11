@@ -102,9 +102,9 @@ bash
 
 code
 
-==================================================
+
 SEARCH ENGINE
-==================================================
+
 Type 'help' for a list of commands
 Search engine: SearchEngine v0.1
 Indexing 4 documents...
@@ -140,9 +140,8 @@ code
 
 code
 
-==================================================
 SEARCH RESULTS FOR: artificial intelligence
-==================================================
+
 Found 3 document(s) in 12 ms
 Doc ID     Relevance  Content Preview
 ----------------------------------------------------------------------
@@ -157,9 +156,9 @@ code
 
 code
 
-==================================================
+
 WORD STATISTICS: intelligence
-==================================================
+
 Word: intelligence
 Found in 3 document(s)
 Total occurrences: 7
@@ -177,9 +176,9 @@ code
 
 code
 
-==================================================
+
 COMPARING WORDS: data vs algorithm
-==================================================
+
 Word 'data' statistics:
 Documents: 4
 Total occurrences: 15
